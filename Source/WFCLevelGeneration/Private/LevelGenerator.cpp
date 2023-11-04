@@ -15,7 +15,6 @@ ALevelGenerator::ALevelGenerator()
 void ALevelGenerator::BeginPlay()
 {
 	Super::BeginPlay();
-	
 }
 
 void ALevelGenerator::Callable()
